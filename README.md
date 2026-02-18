@@ -1,44 +1,66 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Karthikeyan+L+N+R;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Insights" />
+</p>
+
+---
+
 <h1 align="center">Karthikeyan L N R</h1>
-<h3 align="center">Data Analyst | Python | SQL | Power BI</h3>
+<h3 align="center">📊 Data Analyst | Python | SQL | Power BI</h3>
 
 <p align="center">
-  <b>Turning raw data into meaningful insights 📊</b>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experience-Beginner-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Data%20Analytics-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I am a beginner Data Analyst passionate about working with data, discovering patterns, and generating insights that support decision-making.  
-Currently building my skills in data analysis, visualization, and database querying.
+I’m an aspiring **Data Analyst** passionate about transforming raw data into actionable insights.  
+I enjoy cleaning datasets, exploring patterns, and presenting results through clear visualizations and dashboards.
 
-- 🌍 India  
-- 📧 lnrkarthikeyan345@gmail.com  
-- 💼 Open to work: **Yes**  
-- 🎯 Career Goal: Become a professional Data Analyst  
+✔ Strong analytical mindset  
+✔ Detail-oriented approach  
+✔ Fast learner  
+✔ Problem solver  
+
+📍 India  
+📧 lnrkarthikeyan345@gmail.com  
 
 ---
 
-## 🧠 Skills
+## 🧠 Technical Skills
 
-### 📊 Data Analysis
-- Python  
-- SQL  
-- Data Cleaning  
-- Exploratory Data Analysis  
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
-### 📈 Visualization
-- Power BI  
-- Matplotlib  
-- Seaborn  
-- Excel  
+---
 
-### 🗄️ Databases
-- MySQL  
-- PostgreSQL  
+### 📊 Data Analysis Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+---
+
+### 📈 Visualization Tools
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge)
+
+---
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+---
 
 ### ⚙️ Tools
-- Jupyter Notebook  
-- Git & GitHub  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
@@ -46,43 +68,45 @@ Currently building my skills in data analysis, visualization, and database query
 
 | Project | Description |
 |--------|-------------|
-| Sales Analysis Dashboard | Analyzed sales data and built visual insights |
-| Customer Insights Report | Explored customer trends and behavior |
-| SQL Data Exploration | Queried and analyzed relational datasets |
-| Data Cleaning Project | Cleaned and structured raw dataset |
+| 📊 Sales Data Analysis | Cleaned and analyzed sales dataset to discover trends |
+| 📈 Customer Behavior Study | Identified customer patterns and insights |
+| 🧮 SQL Data Exploration | Performed complex queries on relational database |
+| 🧹 Data Cleaning Pipeline | Structured messy dataset for analysis |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=K3KN345&show_icons=true&theme=default" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3KN345&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=K3KN345&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3KN345&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=K3KN345" />
+<img src="https://streak-stats.demolab.com?user=K3KN345&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K3KN345&theme=github"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K3KN345&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/karthikeyanlnr345">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
 ---
 
-⭐ *Always learning. Always analyzing. Always improving.*
-
+<p align="center">
+⭐ <b>“Data is the new oil, but insight is the real fuel.”</b>
+</p>
