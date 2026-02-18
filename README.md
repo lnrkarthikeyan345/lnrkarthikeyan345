@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A6FF,100:6C63FF&height=200&section=header&text=Karthikeyan%20L%20N%20R&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+</p>![profpic_student](https://github.com/user-attachments/assets/e501da00-3b4c-499e-a5ca-78e428162459)
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Python+Developer;SQL+Query+Builder;Power+BI+Dashboard+Creator;Turning+Data+Into+Insights"/>
