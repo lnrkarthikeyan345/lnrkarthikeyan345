@@ -5,9 +5,9 @@
 
 ---
 
-<!-- TYPING INTRO -->
+<!-- TYPING INTRO WITH ICONS -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Cleaning+%7C+Visualization+%7C+Insights;Turning+Raw+Data+Into+Decisions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;🐍+Python+Developer;🗄️+SQL+Query+Builder;📊+Power+BI+Dashboard+Creator;📈+Turning+Data+Into+Insights" />
 </p>
 
 ---
@@ -115,5 +115,8 @@
 ⭐ <b>Data + Curiosity = Insight</b> ⭐
 </p>
 
-<!-- FOOTER WAVE -->
+<!-- FOOTER -->
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00A6FF&height=120&section=footer"/>
+</p>
+
