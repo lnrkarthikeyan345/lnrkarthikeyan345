@@ -7,7 +7,7 @@
 
 <!-- TYPING INTRO -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;🐍+Python+Developer;🗄️+SQL+Query+Builder;📊+Power+BI+Dashboard+Creator;📈+Turning+Data+Into+Insights" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Python+Developer;SQL+Query+Builder;Power+BI+Dashboard+Creator;Turning+Data+Into+Insights" />
 </p>
 
 ---
@@ -29,28 +29,26 @@
 ## 🧠 Skill Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
 ### Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+Pandas • NumPy
 
 ### Visualization
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-green?style=for-the-badge)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=matplotlib" />
+</p>
+Power BI • Seaborn
 
 ### Tools
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<p>
+<img src="https://skillicons.dev/icons?i=excel,git,vscode" />
+</p>
 
 ---
 
@@ -105,14 +103,14 @@
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/karthikeyanlnr345">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-⭐ <b>Data + Curiosity = Insight</b> ⭐
+⭐ <b>SET YOUR HEART ABLAZE</b> ⭐
 </p>
 
 <!-- FOOTER -->
