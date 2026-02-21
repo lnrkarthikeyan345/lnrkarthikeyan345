@@ -62,7 +62,7 @@
 
 ## 💭 Quote of the Moment
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=10"/>
 </p>
 
 ---
