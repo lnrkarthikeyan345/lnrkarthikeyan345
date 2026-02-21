@@ -1,13 +1,13 @@
-<!-- PREMIUM BANNER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A6FF,100:6C63FF&height=200&section=header&text=Karthikeyan%20L%20N%20R&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+<!-- CLEAN ANIMATED NAME HEADER -->
 
----
-
-<!-- TYPING INTRO -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Python+Developer;SQL+Query+Builder;Power+BI+Dashboard+Creator;Turning+Data+Into+Insights" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=42&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=900&lines=K+A+R+T+H+I+K+E+Y+A+N"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=200&lines=L+N+R"/>
+
 </p>
 
 ---
@@ -23,32 +23,6 @@
 
 📍 India  
 📧 lnrkarthikeyan345@gmail.com  
-
----
-
-## 🧠 Skill Stack
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
-### Data Analysis
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-Pandas • NumPy
-
-### Visualization
-<p>
-<img src="https://skillicons.dev/icons?i=matplotlib" />
-</p>
-Power BI • Seaborn
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=excel,git,vscode" />
-</p>
 
 ---
 
@@ -111,9 +85,4 @@ Power BI • Seaborn
 
 <p align="center">
 ⭐ <b>SET YOUR HEART ABLAZE</b> ⭐
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00A6FF&height=120&section=footer"/>
 </p>
