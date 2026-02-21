@@ -26,14 +26,6 @@
 
 ---
 
-## 💭 Anime Quotes
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=20&duration=4000&pause=6000&color=58A6FF&center=true&vCenter=true&width=900&lines=If+you+don’t+take+risks,+you+can’t+create+a+future!+—+Luffy;Being+alone+is+better+than+being+with+the+wrong+person+—+L+Lawliet;If+you+don’t+fight,+you+can’t+win+—+Eren+Yeager;People+become+stronger+because+of+memories+—+Tsunade;Hard+work+is+worthless+without+belief+—+Naruto;You+can+die+anytime,+but+living+takes+courage+—+Kenshin;Stop+caring+what+others+think+—+Saitama;The+world+isn’t+perfect,+but+beautiful+—+Roy+Mustang;Pain+teaches+kindness+—+Jiraiya;Justice+belongs+to+the+winner+—+Doflamingo;If+you+regret,+you+lose+your+future+—+Erwin+Smith;Believe+before+you+act+—+Might+Guy;Thinking+you’re+worthless+is+worst+—+Nobita;We+can’t+waste+time+worrying+—+Ichigo;Humans+are+strong+because+we+change+—+Saitama"/>
-</p>
-
----
-
 ## 📂 Featured Projects
 
 | Project | Tech | Description |
@@ -72,6 +64,12 @@
 <a href="https://www.linkedin.com/in/karthikeyanlnr345">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=20&duration=4000&pause=6000&color=58A6FF&center=true&vCenter=true&width=900&lines=If+you+don’t+take+risks,+you+can’t+create+a+future!+—+Luffy;Being+alone+is+better+than+being+with+the+wrong+person+—+L+Lawliet;If+you+don’t+fight,+you+can’t+win+—+Eren+Yeager;People+become+stronger+because+of+memories+—+Tsunade;Hard+work+is+worthless+without+belief+—+Naruto;You+can+die+anytime,+but+living+takes+courage+—+Kenshin;Stop+caring+what+others+think+—+Saitama;The+world+isn’t+perfect,+but+beautiful+—+Roy+Mustang;Pain+teaches+kindness+—+Jiraiya;Justice+belongs+to+the+winner+—+Doflamingo;If+you+regret,+you+lose+your+future+—+Erwin+Smith;Believe+before+you+act+—+Might+Guy;Thinking+you’re+worthless+is+worst+—+Nobita;We+can’t+waste+time+worrying+—+Ichigo;Humans+are+strong+because+we+change+—+Saitama"/>
 </p>
 
 ---
