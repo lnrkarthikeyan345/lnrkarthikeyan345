@@ -1,78 +1,82 @@
-<!-- PREMIUM BANNER -->
+<!-- PREMIUM ULTRA README -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A6FF,100:6C63FF&height=200&section=header&text=Karthikeyan%20L%20N%20R&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00E0FF&height=230&section=header&text=Karthikeyan%20L%20N%20R&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=27&duration=2500&pause=1000&color=00E0FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+PowerBI;Transforming+Data+Into+Insights;Always+Learning+New+Things" />
 </p>
 
 ---
 
-<!-- TYPING INTRO -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;🐍+Python+Developer;🗄️+SQL+Query+Builder;📊+Power+BI+Dashboard+Creator;📈+Turning+Data+Into+Insights" />
+<img src="https://komarev.com/ghpvc/?username=lnrkarthikeyan345&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/lnrkarthikeyan345?label=Followers&style=flat"/>
+<img src="https://img.shields.io/github/stars/lnrkarthikeyan345?label=Stars&style=flat"/>
 </p>
 
 ---
 
-<h3 align="center">📊 Data Analyst | Entry Level | Open to Work</h3>
+# 👨‍💻 About Me
+
+```yaml
+Name: Karthikeyan L N R
+Role: Data Analyst (Entry Level)
+Location: India
+Specialty: Data Cleaning + Visualization + Insights
+Learning: Advanced Analytics + Real Datasets
+Goal: Become Industry-Ready Data Analyst
+```
+
+💡 I enjoy discovering hidden insights inside data.  
+📊 I turn raw datasets into meaningful visual stories.  
+🚀 Currently building real-world portfolio projects.
 
 ---
 
-## 👨‍💻 About Me
-💡 Passionate about analyzing data and discovering insights that help solve real-world problems.  
-📊 Focused on data cleaning, visualization, and exploratory analysis.  
-🚀 Currently building strong foundations in analytics tools and real datasets.
-
-📍 India  
-📧 lnrkarthikeyan345@gmail.com  
-
----
-
-## 🧠 Skill Stack
+# 🧠 Skills Matrix
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
-
----
+```
+Python      ███████████░░░   80%
+SQL         ██████████░░░░   75%
+```
 
 ### Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
----
+```
+Pandas      ███████████░░░   80%
+NumPy       ██████████░░░░   75%
+```
 
 ### Visualization
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-green?style=for-the-badge)
+```
+Power BI    ███████████░░░   80%
+Matplotlib  █████████░░░░░   70%
+Seaborn     █████████░░░░░   70%
+```
 
 ---
 
-### Tools
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
-## 📂 Featured Projects
-
-| Project | Tech | Description |
-|--------|------|-------------|
-| 📊 Sales Dashboard | Python + Power BI | Trend insights from sales dataset |
-| 👥 Customer Analysis | SQL + Excel | Behavioral segmentation |
-| 📈 Data Exploration | Python | Exploratory analysis |
-| 🧹 Data Cleaning Tool | Pandas | Automated preprocessing |
-
----
-
-## 🏆 Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lnrkarthikeyan345&theme=algolia&no-frame=true&row=1"/>
+# 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+# 🚀 Featured Projects
+
+| Project | Description | Tools |
+|--------|-------------|------|
+| 📊 Sales Dashboard | KPI & trend dashboard | Python + Power BI |
+| 👥 Customer Segmentation | Behavior-based grouping | SQL + Excel |
+| 📈 Exploratory Analysis | Pattern + anomaly detection | Python |
+| 🧹 Data Cleaning Tool | Automated preprocessing | Pandas |
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lnrkarthikeyan345&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -81,41 +85,46 @@
 
 ---
 
-## 🔥 Streak Stats
+# 🔥 Streak Stats
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=lnrkarthikeyan345&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lnrkarthikeyan345&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lnrkarthikeyan345&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 👀 Profile Visitors
+# 🏆 Achievements
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=lnrkarthikeyan345&style=for-the-badge&color=blue"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lnrkarthikeyan345&theme=algolia&no-frame=true&row=1"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/karthikeyanlnr345">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-⭐ <b>Data + Curiosity = Insight</b> ⭐
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 </p>
 
-<!-- FOOTER -->
+---
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00A6FF&height=120&section=footer"/>
+<b>⭐ Turning Data into Decisions ⭐</b>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,50:2C5364,100:0F2027&height=140&section=footer"/>
 </p>
