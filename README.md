@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-⭐ <b>SET YOUR HEART ABLAZE</b> ⭐
+ ❤️‍🔥🔥 <b>SET YOUR HEART ABLAZE</b> 🔥❤️‍🔥
 </p>
