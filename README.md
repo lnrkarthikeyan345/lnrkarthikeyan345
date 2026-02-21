@@ -1,4 +1,4 @@
-<!-- CLEAN ANIMATED NAME HEADER -->
+<!-- ANIMATED NAME HEADER -->
 
 <p align="center">
 
@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 💡 Passionate about analyzing data and discovering insights that help solve real-world problems.  
 📊 Focused on data cleaning, visualization, and exploratory analysis.  
-🚀 Currently building strong foundations in analytics tools and real datasets.
+🚀 Currently building strong foundations using real datasets.
 
 📍 India  
 📧 lnrkarthikeyan345@gmail.com  
@@ -30,10 +30,10 @@
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| 📊 Sales Dashboard | Python + Power BI | Trend insights from sales dataset |
-| 👥 Customer Analysis | SQL + Excel | Behavioral segmentation |
-| 📈 Data Exploration | Python | Exploratory analysis |
-| 🧹 Data Cleaning Tool | Pandas | Automated preprocessing |
+| 📊 Sales Dashboard | Python + Power BI | Trend insights |
+| 👥 Customer Analysis | SQL + Excel | Segmentation |
+| 📈 Data Exploration | Python | EDA |
+| 🧹 Data Cleaning Tool | Pandas | Automation |
 
 ---
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lnrkarthikeyan345&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -60,16 +60,9 @@
 
 ---
 
-## 📈 Contribution Graph
+## 💭 Quote of the Moment
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lnrkarthikeyan345&theme=tokyonight"/>
-</p>
-
----
-
-## 👀 Profile Visitors
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=lnrkarthikeyan345&style=for-the-badge&color=blue"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
