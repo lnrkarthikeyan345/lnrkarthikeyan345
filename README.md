@@ -22,11 +22,11 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,react,html,css,javascript" />
 </p>
-<!--
+
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-<!--
+
 ## Data Analytics & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
