@@ -78,7 +78,6 @@ Amrita Vishwa Vidyapeetam (2022 – 2026)
 CGPA: **7.71 / 10**
 
 ---
----
 # 🏆 Certifications
 
 - [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/XKXFEK4R4ERS) — Google *(Apr 2026)*
@@ -99,7 +98,6 @@ CGPA: **7.71 / 10**
 🌐 GitHub: https://github.com/lnrkarthikeyan345
 -->
 
----
 ---
 
 # 🌐 Connect With Me
