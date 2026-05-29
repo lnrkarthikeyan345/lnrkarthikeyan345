@@ -115,9 +115,3 @@ CGPA: **7.71 / 10**
 </a>
 </p>
 
-
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lnrkarthikeyan345&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
----
