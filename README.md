@@ -78,14 +78,17 @@ Amrita Vishwa Vidyapeetam (2022 – 2026)
 CGPA: **7.71 / 10**
 
 ---
-
+---
 # 🏆 Certifications
 
-- 📜 Data Analyst Associate — DataCamp
-- ☁️ Google Cloud Computing Foundations — NPTEL
-- 📊 Alteryx Designer Core Certified
-
----
+- [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/XKXFEK4R4ERS) — Google *(Apr 2026)*
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/GKZGDYFLRES1) — Google *(May 2026)*
+- [Deloitte Australia - Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69897d32dacd53f23143b038_1779985430122_completion_certificate.pdf) — Forage *(May 2026)*
+- [SQL Associate](https://www.datacamp.com/certificate/SQA0017183939364) — DataCamp *(Apr 2026 · Expires Apr 2028)*
+- [SQL Basic](https://www.hackerrank.com/certificates/620bcee01f17) — HackerRank *(Apr 2026)*
+- [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0019863568925) — DataCamp *(Mar 2026 · Expires Mar 2028)*
+- [Alteryx Designer Core](https://www.credly.com/badges/c120b940-1c73-4e2b-ae68-e1f2eccbcf9d/linked_in_profile) — Alteryx *(May 2026 · Expires May 2028)*
+- Google Cloud Computing Foundations — NPTEL *(Oct 2024)*
 <!--
 # 📫 Connect With Me
 
