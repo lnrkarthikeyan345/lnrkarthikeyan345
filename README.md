@@ -20,7 +20,7 @@
 
 # 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,react,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git" />
 </p>
 
 ## Programming Languages
@@ -32,11 +32,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-<
+
 ## Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-<
+
 ## Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078D4?style=for-the-badge)
@@ -46,14 +46,6 @@
 --- 
 
 # 📌 Featured Projects
-
-## 🚦 AI-Powered Route Optimization System
-- Developed a Python-based route optimization system using the A* algorithm
-- Integrated real-time APIs for traffic, weather, and air quality analysis
-- Built scalable backend logic with React + Leaflet frontend
-- Improved route efficiency through intelligent pathfinding
-
----
 
 ## 🌱 ReflectWise (Web App)
 - Developed a full-stack web application for tracking and analyzing personal reflections
